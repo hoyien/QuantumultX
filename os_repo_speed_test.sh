@@ -18,6 +18,7 @@ PLAIN='\033[0m'
 declare -A mirrors
 mirrors=(
   [edu_sjtu]="http://ftp.sjtu.edu.cn/"
+  [aliyun]="https://mirrors.aliyun.com/"
 )
 
 ######################################################################################################
